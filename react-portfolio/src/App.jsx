@@ -1,12 +1,11 @@
-import './App.css'
+import "./App.css";
 
 function App() {
-
   return (
     <>
-    My Portfolio
+      <div className="bg-primary px-4 font-roboto">My Portfolio</div>
     </>
-  )
+  );
 }
 
-export default App
+export default App;

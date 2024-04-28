@@ -553,3 +553,17 @@ video {
   --tw-contain-paint:  ;
   --tw-contain-style:  ;
 }
+
+.bg-primary {
+  --tw-bg-opacity: 1;
+  background-color: rgb(87 108 188 / var(--tw-bg-opacity));
+}
+
+.px-4 {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.font-roboto {
+  font-family: Roboto, sans-serif;
+}
